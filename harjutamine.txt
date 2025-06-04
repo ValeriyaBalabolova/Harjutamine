@@ -1,1 +1,3 @@
 GitHub on veebiplatvorm, kus saab koodi salvestada, redigeerida ja jälgida muudatusi ning projektide kallal töötada. Mina olen Valeria Balabolova, Kutsehariduskeskuse tudeng ja hakkan seda kasutama.
+GitHub Inc. asutasid 2008. aastal Tom Preston-Werner, Chris Wanstrath, PJ Hyett ja Scott Ciaccon.
+Teenus muutus kasutajatele kättesaadavaks 2008. aasta aprillis.
